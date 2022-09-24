@@ -10,3 +10,12 @@ In this example you will see:
 
 - [React.js](https://reactjs.org/)
 - [Recursive function](https://developer.mozilla.org/en-US/docs/Glossary/Recursion)
+
+
+### =2. [Tabs (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/tabs)
+
+In this example you will see:
+
+- [React.js](https://reactjs.org/)
+
+Comming Soon...
