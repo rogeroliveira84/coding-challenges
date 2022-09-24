@@ -1,11 +1,14 @@
 # Treeview
 
-This project is a simple implementation of a treeview using Recursive functions
+This is a simple implementation of a Treeview component using recursive functions
 
-## Start the project by running
+## Getting running
+
+In the project directory, you can run:
 
 ### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "name1",
+    "children": [
+      {
+        "name": "name1_1",
+        "children": [
+          {
+            "name": "name1_1_1",
+            "children": []
+          },
+          {
+            "name": "name1_2_1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "name2",
+    "children": [
+      {
+        "name": "name2_1",
+        "children": [
+          {
+            "name": "name2_1_1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "name2_2",
+        "children": [
+          {
+            "name": "name2_2_1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
