@@ -6,7 +6,7 @@ Learn React.js by checking my coding challenges :)
 
 ### 1. [Treeview (React.js)](https://github.com/rogeroliveira84/javascript-teacher/blob/master/treeview)
 
-In this sample you will learn:
+In this example you will see:
 
-- recursive functions
-- react functional components
+- [React.js](https://reactjs.org/)
+- [Recursive function](https://developer.mozilla.org/en-US/docs/Glossary/Recursion)
