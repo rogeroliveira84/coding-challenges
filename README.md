@@ -12,7 +12,7 @@ In this example you will see:
 - [Recursive function](https://developer.mozilla.org/en-US/docs/Glossary/Recursion)
 
 
-### =2. [Tabs (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/tabs)
+### 2. [Tabs (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/tabs)
 
 In this example you will see:
 
