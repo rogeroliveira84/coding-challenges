@@ -1,6 +1,6 @@
 # Treeview
 
-This is a simple implementation of a Treeview component using recursive functions
+This is an implementation of a Treeview component using recursive functions
 
 ## Getting running
 
