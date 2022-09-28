@@ -7,14 +7,15 @@ Learn React.js by checking my coding challenges :)
 ### 1. [Treeview (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/treeview)
 
 In this example you will see:
+[**Demo online**](https://coding-challenge-treeview.herokuapp.com)
 
 - [React.js](https://reactjs.org/)
 - [Recursive function](https://developer.mozilla.org/en-US/docs/Glossary/Recursion)
 
 
 ### 2. [Tabs (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/tabs)
-[**See online**](https://coding-challenge-tabs.herokuapp.com)
 
 In this example you will see:
+[**Demo online**](https://coding-challenge-tabs.herokuapp.com)
 
 - [React.js](https://reactjs.org/)
