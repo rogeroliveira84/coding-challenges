@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import "./Treeview.css";
 import {TreeviewStructure} from "../services/getTreeviewStructure";
 
 type TreeviewProps = {
@@ -17,20 +18,28 @@ const Treeview = (props: TreeviewProps) => {
     }
     const isExpanded = (id: string) => expandedMap.get(id);
 
-    // if api is still fetching returns loader
     if (isLoading) {
         return <div>Loading...</div>
     }
-    // Selects the list image: open, closed and none
+
     const getStyle = (
         id: string,
         children: TreeviewStructure[]
-    ) => children?.length ? `${isExpanded(id) ? 'circle' : 'square'}` : 'none';
+    ) => {
+        if (!children?.length) {
+            return 'none';
+        }
+        return isExpanded(id) ? 'expanded' : 'collapsed';
+    }
+
     return (
         <div>
             {treeviewStructure?.map(({name, children}) => (
-                <ul style={{listStyleType: getStyle(name, children)}} key={name}>
-                    <li onClick={() => onToggle(name)}>{name}</li>
+                <ul key={name}>
+                    <li
+                        className={getStyle(name, children)}
+                        onClick={() => onToggle(name)}
+                    >{name}</li>
                     {
                         children && isExpanded(name) && (
                             <Treeview

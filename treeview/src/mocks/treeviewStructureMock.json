@@ -4,20 +4,20 @@
     "children": [
       {
         "name": "Steve Jobs",
-            "children": []
-          },
-          {
-            "name": "Bill Gates",
-            "children": []
-          },
-          {
-            "name": "Linus Torvalds",
-            "children": []
-          }
-        ]
+        "children": []
+      },
+      {
+        "name": "Bill Gates",
+        "children": []
+      },
+      {
+        "name": "Linus Torvalds",
+        "children": []
       }
+    ]
+  },
   {
-    "name": "Projects",
+    "name": "Products",
     "children": [
       {
         "name": "MacOS",
@@ -26,19 +26,45 @@
             "name": "Versions",
             "children": [
               {
-                "name": "Monterey"
+                "name": "Monterey",
                 "children": []
               },
               {
-                "name": "Big Sur"
+                "name": "Big Sur",
                 "children": []
               },
               {
-                "name": "Catalina"
+                "name": "Catalina",
                 "children": []
               },
               {
-                "name": "Mojave"
+                "name": "Mojave",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "IPhone",
+        "children": [
+          {
+            "name": "Versions",
+            "children": [
+              {
+                "name": "11",
+                "children": []
+              },
+              {
+                "name": "12",
+                "children": []
+              },
+              {
+                "name": "13",
+                "children": []
+              },
+              {
+                "name": "14",
                 "children": []
               }
             ]
