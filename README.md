@@ -13,7 +13,7 @@ In this example you will see:
 
 
 ### 2. [Tabs (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/tabs)
-[See online](https://coding-challenge-tabs.herokuapp.com)
+[**See online**](https://coding-challenge-tabs.herokuapp.com?target=_blank)
 
 In this example you will see:
 
