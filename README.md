@@ -17,5 +17,3 @@ In this example you will see:
 In this example you will see:
 
 - [React.js](https://reactjs.org/)
-
-Comming Soon...
