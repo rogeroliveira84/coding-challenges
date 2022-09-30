@@ -19,3 +19,7 @@ In this example you will see:
 [**Demo online**](https://coding-challenge-tabs.herokuapp.com)
 
 - [React.js](https://reactjs.org/)
+
+### 3. [Dropdown menu (React.js)](#)
+
+#### Coming soon...
