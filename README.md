@@ -23,6 +23,7 @@ In this example you will see:
 ### 3. [Internationalisation (i18n) (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/i18n)
 
 In this example you will see how to implement a multi-language app using i18next library.
+[**Demo online**](https://coding-challenges-i18n.herokuapp.com)
 
 - [i18next](https://www.i18next.com/)
 
