@@ -19,3 +19,13 @@ In this example you will see:
 [**Demo online**](https://coding-challenge-tabs.herokuapp.com)
 
 - [React.js](https://reactjs.org/)
+
+### 3. [Internationalisation (i18n) (React.js)](https://github.com/rogeroliveira84/coding-challenges/i18n)
+
+In this example you will see how to implement a multi-language app using i18next library.
+
+- [i18next](https://www.i18next.com/)
+
+### 4. [Dropdown menu (React.js)](#)
+
+#### Coming soon...
