@@ -20,7 +20,7 @@ In this example you will see:
 
 - [React.js](https://reactjs.org/)
 
-### 3. [Internationalisation (i18n) (React.js)](https://github.com/rogeroliveira84/coding-challenges/i18n)
+### 3. [Internationalisation (i18n) (React.js)](https://github.com/rogeroliveira84/coding-challenges/tree/main/i18n)
 
 In this example you will see how to implement a multi-language app using i18next library.
 
